@@ -1,0 +1,8 @@
+{"ReplyForm":
+{"name_input": "//*[@id='author']",
+  "email_input": "//*[@id='email']",
+  "comment_input": "//textarea[@id='comment']",
+  "submit_button": "//*[@id='comment-submit']"
+},
+"comment_link":"//textarea[@id='comment']"
+}

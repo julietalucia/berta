@@ -1,0 +1,5 @@
+{"LoginForm":
+{"user_input": "//*[@id='user_login']",
+  "password_input": "//*[@id='user_pass']",
+  "submit_button":"//*[@id='wp-submit']"}
+}

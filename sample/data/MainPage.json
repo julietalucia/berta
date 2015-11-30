@@ -1,0 +1,14 @@
+
+{"LoginForm":
+{"user_input": "//*[@id='search-2']//input",
+  "password_input": "//input[contains(@type,'password')"},
+"comment_link":"//*[contains(@class,'leave-reply')]",
+"search_input":"//input[contains(@class,'search-field')]",
+"first_result_link":"//a[contains(@rel,'bookmark')]",
+"ReplyForm":
+{"name_input": "//*[@id='author']",
+  "email_input": "//*[@id='email']",
+  "comment_input": "//*[@id='comment']",
+  "submit_button": "//*[contains(@id,'submit')]"
+}
+}
